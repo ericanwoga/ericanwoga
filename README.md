@@ -8,19 +8,17 @@
 
 <p align="left">
 Hi! I’m Erica! I thrive at building applications that are both functionally and aesthetically seamless.
-<br><br>
+<br>
+<br>
 My background spans Banking and EdTech, giving me a unique perspective on building systems that are both highly secure and highly usable.
-<br><br>
-At M&T Bank, I led the full-stack development of a high-volume loan-forgiveness application, where I personally redesigned the interface of a legacy application and presented the prototype to business stakeholders. The modernized application would significantly improve usability and data-handling efficiency. 
-<br><br>
-Additionally, my internship at 2U deepened my commitment to user-centered development. LTI standards, centered around data privacy in learning platforms, informed how I built secure Python REST APIs.
-<br><br>
+<br>
+<br>
 I’m looking to bring my style of technical excellence and design-thinking to a team that values building software people enjoy using!🌱 
 </p>
 
 <br>
 <h1 align="center">Let's Connect</h1>
-<p align="center"><a href="https://linkedin.com/in/ericanwoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ericanwoga/" height="30" width="40" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/ericanwoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ericanwoga/" height="30" width="40" /></a>
 </p>
 
 <br>
