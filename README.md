@@ -7,15 +7,15 @@
 <h3 align="center">An aspiring frontend developer with a love for user-friendly design</h3>
 
 <p align="left">
-Hi! I’m Erica! I thrive at building applications that are both functionally and aesthetically seamless.
-
+Hi! I’m Erica! I thrive at building applications that are both functionally and aesthetically seamless.🌱 
+<br>
 My background spans Banking and EdTech, giving me a unique perspective on building systems that are both highly secure and highly usable.
-
+<br>
 At M&T Bank, I led the full-stack development of a high-volume loan-forgiveness application, where I personally redesigned the interface of a legacy application and presented the prototype to business stakeholders. The modernized application would significantly improve usability and data-handling efficiency. 
-
+<br>
 Additionally, my internship at 2U deepened my commitment to user-centered development. LTI standards, centered around data privacy in learning platforms, informed how I built secure Python REST APIs.
-
-I’m looking to bring my style of technical excellence and design-thinking to a team that values building software people enjoy using! 🌱 
+<br>
+I’m looking to bring my style of technical excellence and design-thinking to a team that values building software people enjoy using!
 </p>
 
 <br>
